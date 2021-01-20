@@ -2,7 +2,7 @@
 #else if you have settings.py 
 #then put following there without #
 #messageList=['pranav','lol','me','egg','egg009']
-#chatMessageTime=50000 #5000 means 50 sec don't change me recomend :)
+#chatMessageTime=500000 #50000 means 500 sec don't change me recomend :)
 
 #this file mads by Bltiz Modders
 #credit if you want :) 
