@@ -1,4 +1,4 @@
-#To use this you need settings.py from this repo
+# this for server #To use this you need settings.py from this repo
 #else if you have settings.py 
 #then put following there without #
 #messageList=['pranav','lol','me','egg','egg009']
