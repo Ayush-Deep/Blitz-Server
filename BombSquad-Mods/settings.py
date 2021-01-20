@@ -4,7 +4,7 @@ enableTop5commands = True
 enableCoinSystem = True
 
 messageList=['pranav','lol','me','egg','egg009']
-chatMessageTime=4000
+chatMessageTime=500000
 #to become server owner go in getpermishanhashes and type your pb/accourID in ownerHashes=['id'] like thiz
 
 
