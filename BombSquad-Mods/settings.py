@@ -1,6 +1,7 @@
 import bs
 #creted by Blitz Modders
 #Join Our Squad Now
+#You Will Need ChatReply.py From Our Repository
 #You Can Add Any Ammount Of Msg Just type
 #Msg List
 messageList = ['Message 1','Message 2','Message 3']
