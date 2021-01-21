@@ -1,6 +1,7 @@
 import bs,bsInternal
 import random
 from settings import *
+#you will need settings.py from our repository
 inx = 0
 def message():
     global inx
