@@ -6,9 +6,9 @@ import bs
 #Msg List
 messageList = ['Message 1','Message 2','Message 3']
 #Msg Timer 
-chatMessageTime = 30 #seconds
+chatMessageTime = 120 #seconds
 #Change According To U
-msgColor = (1,0,0) #Choose Any From Below
+
 #colors
 #thanks to google
 #Black (0,0,0)
