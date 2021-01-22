@@ -5,7 +5,7 @@ from settings import *
 inx = 0
 def message():
     global inx
-    bs.screenMessage(messageList[inx],color = msgColor)
+    bsInternal._chatMessage(messageList[inx])
     if inx < len(messageList):
         inx+= 1
     if inx == len(messageList):
